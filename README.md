@@ -1,9 +1,9 @@
 # Kotlin 2.1 og veien videre
 
-I mai i år ble Kotlin 2.0 sluppet. En av de store nyhetene var den nye K2 compileren.
-En av grunnen til at Jetbrains valgte å gå til det skrittet med å lage K2 fra bunnen av, var nettopp det å kunne tilby ny funksjonalitet raskere og tryggere.
+I mai i år ble Kotlin 2.0 sluppet, og en av de store nyhetene var den nye K2 compileren.
+Jetbrains valgte å gå til dette skrittet med å lage K2 fra bunnen av for å kunne tilby ny funksjonalitet raskere og tryggere.
 
-En ganske stor forbedring ved å gå til K2 var at man fikk bedre kompileringstid.
+En relativt stor forbedring ved å gå til K2 var at man fikk bedre kompileringstid.
 Dette var noe vi så nærmere på i [frokostseminaret](https://www.meetup.com/meetup-group-nwerbymu/events/302809664) vi holdt på Oslo Kotlin meetup om Kotlin 2.0.
 
 Vi gjorde noen tester på ulike prosjekter med hjelp fra et repo som Jetbrains har laget som heter [k2-performance-metrics](https://github.com/Kotlin/k2-performance-metrics).
@@ -12,11 +12,10 @@ Her kan man kjøre en rekke tester på sine egne prosjekter og se hvilken effekt
 Med 2.0 releasen så var det viktigste å ha et stabilt produkt som kunne bli tatt i bruk. 
 Hele tanken var at i fremtiden skulle de kunne enklere kunne implementere nye language features.
 
-Nå har nettopp Kotlin 2.1 kommet, den ble releaset 27. november. Hva ble introdusert her?
+Den 27. november så ble Kotlin 2.1 sluppet. Vi skal se nærmere på hvilken ny funksjonalitet som ble introdusert.
 
 # Kotlin 2.1
 
-Fra Kotlin 2.1 begynner Jetbrains teamet å legge til ny funksjonalitet. Det er kanskje ikke de eller mest revolusjonerende features som har blitt introdusert, men de er absolutt verdt å ta en titt på.
 En detaljert oversikt over ny funksjonalitet er tilgjengelig på siden [What's new in Kotlin 2.1.0](https://kotlinlang.org/docs/whatsnew21.html).
 
 Hvis man ikke er så gira på å lese igjennom såpass mye tekst, så anbefaler jeg å ta en titt på live stream'en som ble holdt rett etter Kotlin 2.1.0 releasen.
@@ -29,6 +28,8 @@ De går igjennom 5 nye features:
 - Multi-dollar interpolation
 - Guard conditions in when-with-subject expressions
 - Improved exhaustiveness checks for when expressions with sealed classes
+
+Det er kanskje ikke de eller mest revolusjonerende features som har blitt introdusert, men de er absolutt verdt å ta en titt på.
 
 [Livestreamen er tilgjengelig her](https://www.youtube.com/live/jlgRcpVRqEo?si=C9YrEFPgQoe6XK6w), og jeg anbefaler alle å sjekke det ut.
 Kode eksemplene som de går igjennom er selfølgelig tilgjengelig på [github](https://github.com/antonarhipov/kotlin-langauge-updates-2.1.0).
