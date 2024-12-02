@@ -29,9 +29,8 @@ De går igjennom 5 nye features:
 - Guard conditions in when-with-subject expressions
 - Improved exhaustiveness checks for when expressions with sealed classes
 
-Litt interessant å se at den "[Multi-dollar interpolation](https://youtrack.jetbrains.com/issue/KT-2425/Multidollar-interpolation-improve-handling-of-in-string-literals)" er en 12 år gammel sak i youtrack!
-
 Det er kanskje ikke de eller mest revolusjonerende features som har blitt introdusert, men de er absolutt verdt å ta en titt på.
+Litt interessant å se at den "[Multi-dollar interpolation](https://youtrack.jetbrains.com/issue/KT-2425/Multidollar-interpolation-improve-handling-of-in-string-literals)" er en 12 år gammel sak i youtrack!
 
 [Livestreamen er tilgjengelig her](https://www.youtube.com/live/jlgRcpVRqEo?si=C9YrEFPgQoe6XK6w), og jeg anbefaler alle å sjekke det ut.
 Kode eksemplene som de går igjennom er selfølgelig tilgjengelig på [github](https://github.com/antonarhipov/kotlin-langauge-updates-2.1.0).
