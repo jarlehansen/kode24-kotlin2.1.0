@@ -7,7 +7,7 @@ En relativt stor forbedring ved å gå til K2 var at man fikk bedre kompilerings
 Dette var noe vi så nærmere på i [frokostseminaret](https://www.meetup.com/meetup-group-nwerbymu/events/302809664) vi holdt på Oslo Kotlin meetup om Kotlin 2.0.
 
 Vi gjorde noen tester på ulike prosjekter med hjelp fra et repo som Jetbrains har laget som heter [k2-performance-metrics](https://github.com/Kotlin/k2-performance-metrics).
-Her kan man kjøre en rekke tester på sine egne prosjekter og se hvilken effekt det har å gå fra Kotlin K1 til K2 kompilatoren.
+Her kan man kjøre en rekke tester på sine egne prosjekter og se hvilken effekt det har å gå fra Kotlin K1 til K2 kompilatoren. Dette er faktisk ganske kult å leke med, anbefales å teste det ut.
 
 Med 2.0 releasen så var det viktigste å ha et stabilt produkt som kunne bli tatt i bruk. 
 Hele tanken var at i fremtiden skulle de kunne enklere kunne implementere nye language features.
