@@ -1,6 +1,6 @@
 # Kotlin 2.1 og veien videre
 
-I mai i år ble Kotlin 2.0 sluppet, og en av de store nyhetene var den nye K2 compileren.
+I mai i år ble Kotlin 2.0 sluppet og en av de store nyhetene var den nye K2 compileren.
 Jetbrains valgte å gå til dette skrittet med å lage K2 fra bunnen av for å kunne tilby ny funksjonalitet raskere og tryggere.
 
 En relativt stor forbedring ved å gå til K2 var at man fikk bedre kompileringstid.
@@ -20,7 +20,7 @@ En detaljert oversikt over ny funksjonalitet er tilgjengelig på siden [What's n
 
 Hvis man ikke er så gira på å lese igjennom såpass mye tekst, så anbefaler jeg å ta en titt på live stream'en som ble holdt rett etter Kotlin 2.1.0 releasen.
 Anoton Arhipov, som vi også har hatt [besøk av på Oslo Kotlin meetup](https://www.meetup.com/meetup-group-nwerbymu/events/287832922/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link),
-holdt en stream sammen med to fra Language Evolution Teaet for å gå inn i detaljene for denne nye Kotlin-versjonen.
+holdt en stream sammen med to fra Language Evolution Teamet for å gå inn i detaljene for denne nye Kotlin-versjonen.
 
 De går igjennom 5 nye features:
 - Support for requiring opt-in to extend APIs
@@ -57,7 +57,7 @@ Det er enkelt å sette opp og komme i gang med, og det er raskt å teste ut kode
 
 Jeg har ikke selv erfaring med ustrakt bruk av scripting i Kotlin utenfor Gradle byggescript.
 Så for min del vil ikke dette få noen større konsekvenser. 
-Det skal ikke dermed være sagt at ingen bruker det, så jeg er veldig nysgjerrig på om det er noen som har tatt det i bruk i større omfang?
+Selv om det ikke påvirker meg til daglig, så jeg er veldig nysgjerrig på om det er noen som har tatt det i bruk i større omfang?
 Og eventuelt hvilke konsekvenser det får for dere?
 
 ## Veien videre
