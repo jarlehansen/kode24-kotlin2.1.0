@@ -19,7 +19,7 @@ Den 27. november så ble Kotlin 2.1 sluppet. Vi skal se nærmere på hvilken ny 
 En detaljert oversikt over ny funksjonalitet er tilgjengelig på siden [What's new in Kotlin 2.1.0](https://kotlinlang.org/docs/whatsnew21.html).
 
 Hvis man ikke er så gira på å lese igjennom såpass mye tekst, så anbefaler jeg å ta en titt på live stream'en som ble holdt rett etter Kotlin 2.1.0 releasen.
-Anoton Arhipov, som vi også har hatt [besøk av på Oslo Kotlin meetup](https://www.meetup.com/meetup-group-nwerbymu/events/287832922/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link),
+Anton Arhipov, som vi også har hatt [besøk av på Oslo Kotlin meetup](https://www.meetup.com/meetup-group-nwerbymu/events/287832922/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link),
 holdt en stream sammen med to fra Language Evolution Teamet for å gå inn i detaljene for denne nye Kotlin-versjonen.
 
 De går igjennom 5 nye features:
